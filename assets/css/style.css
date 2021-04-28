@@ -1,0 +1,12 @@
+input {
+    font-size: 40px;
+    width: 205px;
+    height: 30px;
+}
+button {
+    width: 50px;
+    font-size: 30px;
+}
+ button:hover{
+    background:lightpink ;
+}
